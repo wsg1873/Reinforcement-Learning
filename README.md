@@ -1,2 +1,3 @@
 # Reinforcement-Learning
-this is about some Reinforcement-learning
+this is some method about some Reinforcement-learning
+
